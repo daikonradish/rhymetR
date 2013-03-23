@@ -1,0 +1,14 @@
+Package: rhymetR
+Type: Package
+Title: Provides tools to analyze poetic text, in particular rhyme and
+        meter.
+Version: 1.0
+Date: 2013-03-17
+Author: Jireh Tan
+Maintainer: Jireh Tan <tjireh@gmail.com>
+Description: Contains functions to aid in computational aesthetics, of interest to those in the digital humanities and computational linguistics. Defines reference class for poetry.
+Imports: utils, methods
+License: GPL-2
+LazyData: true
+Packaged: 2013-03-18 23:00:18 UTC; jirehtan
+Depends: R (>= 2.10)
